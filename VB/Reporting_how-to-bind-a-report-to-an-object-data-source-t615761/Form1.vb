@@ -9,11 +9,11 @@ Imports System.Threading.Tasks
 Imports System.Windows.Forms
 
 Namespace ObjectDataSource
-    Partial Public Class Form1
-        Inherits Form
+	Partial Public Class Form1
+		Inherits Form
 
-        Public Sub New()
-            InitializeComponent()
-        End Sub
-    End Class
+		Public Sub New()
+			InitializeComponent()
+		End Sub
+	End Class
 End Namespace
